@@ -98,7 +98,7 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 I'm always open to collaborating on projects and innovative ideas in cybersecurity and development. Feel free to reach out if you share similar interests or have opportunities to discuss!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akilash-a">
+  <a href="https://www.linkedin.com/in/akilasha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   &nbsp;&nbsp;
