@@ -15,7 +15,7 @@
 I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** with a strong passion for protecting digital assets and developing secure applications. My goal is to become an expert in cybersecurity while mastering full-stack development to create secure and robust applications.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akilash-A&theme=dracula&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akilash-A&theme=dracula&column=7&margin-w=15&margin-h=15&no-cache=true" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Expertise & Interests
