@@ -62,29 +62,35 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akilash-A&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akilash-A&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 ## 🏆 Achievements & Certifications
 
-- 📜 [Add your certifications here, e.g., CompTIA Security+, Certified Ethical Hacker]
-- 🥇 [Add competitions or hackathons you've participated in]
-- 🏅 [Add any academic or professional achievements]
+- 📜 **Computer Networks Fundamentals** | Udemy
+- 📜 **Ethical Hacking** | Internshala
+- 📜 **Networking Basics** | Cisco Networking Academy
+- 📜 **Offenso Certified Security Professional** | Offenso Academy
+- 📜 **Red Teaming Learning Path** | TryHackMe
 
 ## 🛠️ Featured Projects
 
 <div align="center">
+  <p>Coming soon! I'm currently working on exciting cybersecurity and development projects that will be featured here.</p>
+  
+  <!-- Uncomment and update when you have projects to showcase
   <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akilash-A&repo=replace-with-your-repo-name&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akilash-A&repo=your-actual-repo-name&theme=tokyonight&hide_border=true" />
   </a>
   <a href="your-repo-link">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akilash-A&repo=replace-with-your-repo-name&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akilash-A&repo=your-actual-repo-name&theme=tokyonight&hide_border=true" />
   </a>
+  -->
 </div>
 
 ## 📫 Let's Connect
@@ -92,7 +98,7 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 I'm always open to collaborating on projects and innovative ideas in cybersecurity and development. Feel free to reach out if you share similar interests or have opportunities to discuss!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akilasha">
+  <a href="https://www.linkedin.com/in/akilash-a">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
   &nbsp;&nbsp;
