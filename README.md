@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Akilash+A+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%92;Full-Stack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Akilash+A+%F0%9F%91%8B;Cybersecurity+Enthusiast+%F0%9F%94%92;Offensive+Security+Learner+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   
-  <h1>🛡️ Cybersecurity Engineer & Developer 🌐</h1>
+  <h1>🛡️ Cybersecurity Student 🌐</h1>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akilash-a)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/akilash_a)
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** with a strong passion for protecting digital assets and developing secure applications. My goal is to become an expert in cybersecurity while mastering full-stack development to create secure and robust applications.
+I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** interested in and learning **Offensive Security**.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akilash-A&theme=dracula&column=7&margin-w=15&margin-h=15&no-cache=true" alt="GitHub Trophies" />
@@ -23,7 +23,7 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="100%">
         <h3 align="center">💂‍♂️ Security Domain</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Network%20Security-007ACC?style=for-the-badge" alt="Network Security" />
@@ -32,19 +32,6 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
           <img src="https://img.shields.io/badge/Vulnerability%20Assessment-FFC107?style=for-the-badge" alt="Vulnerability Assessment" />
           <img src="https://img.shields.io/badge/Digital%20Forensics-9C27B0?style=for-the-badge" alt="Digital Forensics" />
           <img src="https://img.shields.io/badge/Incident%20Response-E91E63?style=for-the-badge" alt="Incident Response" />
-        </p>
-      </td>
-      <td valign="top" width="50%">
-        <h3 align="center">🧑‍💻 Development Skills</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-          <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         </p>
       </td>
     </tr>
@@ -63,7 +50,7 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akilash-A&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Akilash-A&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
