@@ -14,11 +14,9 @@
 
 I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** interested in and learning **Offensive Security**.
 
-<!--
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akilash-A&theme=dracula&column=7&margin-w=15&margin-h=15&no-cache=true" alt="GitHub Trophies" />
 </div>
--->
 
 ## 🔥 Expertise & Interests
 
