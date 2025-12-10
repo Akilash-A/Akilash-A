@@ -65,11 +65,13 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 
 ## 🏆 Achievements & Certifications
 
-- 📜 **Computer Networks Fundamentals** | Udemy
+- 📜 **Foundations of Cybersecurity** | Google
 - 📜 **Ethical Hacking** | Internshala
+- 📜 **Computer Networks Fundamentals** | Udemy
 - 📜 **Networking Basics** | Cisco Networking Academy
-- 📜 **Offenso Certified Security Professional** | Offenso Academy
 - 📜 **Red Teaming Learning Path** | TryHackMe
+- 📜 **Offenso Certified Security Professional** | Offenso Academy
+- 📜 **Fundamentals of Red Hat Enterprise Linux** | Red Hat
 
 ## 🛠️ Featured Projects
 
