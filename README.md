@@ -14,9 +14,7 @@
 
 I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** interested in and learning **Offensive Security**.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akilash-A&theme=dracula&column=7&margin-w=15&margin-h=15&no-cache=true" alt="GitHub Trophies" />
-</div>
+
 
 ## 🔥 Expertise & Interests
 
@@ -46,15 +44,22 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 - Contributing to open-source security tools and frameworks
 - Building a portfolio of cybersecurity projects demonstrating practical skills
 
-## 📈 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akilash-A&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Akilash-A&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Akilash-A&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=Akilash-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Akilash-A&icon=0&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ## 🏆 Achievements & Certifications
