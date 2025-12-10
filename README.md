@@ -15,6 +15,10 @@
 I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engineering College** interested in and learning **Offensive Security**.
 
 
+## 🏆 GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=Akilash-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 🔥 Expertise & Interests
 
@@ -52,9 +56,6 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=Akilash-A&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
