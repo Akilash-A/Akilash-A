@@ -52,7 +52,7 @@ I am a dedicated **Cybersecurity Engineering student** at **SRM Valliammai Engin
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akilash-A&theme=tokyonight-duo)](https://git.io/streak-stats)
+![](https://streak-stats.demolab.com/?user=Akilash-A&theme=tokyonight)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akilash-A&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akilash-A&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
